@@ -16,6 +16,7 @@ public class Main {
     }
 
     /**
+     * Making comment changes
      * Return the number of sub breeds that the given dog breed has according to the
      * provided fetcher.
      * @param breed the name of the dog breed
